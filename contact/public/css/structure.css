@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Pinar;
+    src: url(../fonts/Pinar-Regular.ttf) format("ttf");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: YekanBakh;
+    src: url(../fonts/YekanBakh-Medium.ttf) format("ttf");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Vazir;
+    src: url(../fonts/Vazir.ttf) format("ttf");
+    font-weight: normal;
+}
+
+.ph-white::placeholder {
+    color: #909;
+}
